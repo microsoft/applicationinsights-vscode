@@ -9,19 +9,19 @@ Microsoft reserves all other rights not expressly granted, whether by implicatio
 otherwise. 
 
 
-1.	Application Insights for Node.js (https://github.com/Microsoft/ApplicationInsights-node.js)
+1.  Application Insights for Node.js (https://github.com/Microsoft/ApplicationInsights-node.js)
 2.  electron (http://electron.atom.io/)
 3.  esprima (http://esprima.org/)
 4.  event-stream (https://github.com/dominictarr/event-stream)
-5.	node-uuid (https://github.com/broofa/node-uuid)
-6.	opn (https://github.com/sindresorhus/opn)
-7.	path-to-regexp (https://github.com/pillarjs/path-to-regexp)
+5.  node-uuid (https://github.com/broofa/node-uuid)
+6.  opn (https://github.com/sindresorhus/opn)
+7.  path-to-regexp (https://github.com/pillarjs/path-to-regexp)
 8.  readable-stream (https://github.com/nodejs/readable-stream)
 9.  request (https://github.com/request/request)
 10. tar (https://github.com/npm/node-tar)
 11. tmp (https://github.com/raszi/node-tmp)
 12. underscore (https://github.com/jashkenas/underscore)
-13.	winreg (https://github.com/Microsoft/vso-node-api)
+13. winreg (https://github.com/Microsoft/vso-node-api)
 
 
 %% Application Insights for Node.js NOTICES, INFORMATION, AND LICENSE BEGIN HERE
